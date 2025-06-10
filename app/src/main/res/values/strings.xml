@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">30_days_of_success</string>
+    <string name="title_1">Define Success in Your Own Terms</string>
+    <string name="desc_1">Determine what success personally means to you rather than following others’ definitions.</string>
+
+    <string name="title_2">Have a Clear Vision and Visualize Your Success</string>
+    <string name="desc_2">Picture your goals vividly to strengthen motivation and direction.</string>
+
+    <string name="title_3">Take Action</string>
+    <string name="desc_3">Move beyond planning and start doing—action is the bridge to results.</string>
+
+    <string name="title_4">Make Regular Small Steps</string>
+    <string name="desc_4">Break big goals into small, manageable actions and execute consistently.</string>
+
+    <string name="title_5">Persevere</string>
+    <string name="desc_5">Stay committed despite obstacles or delays in achieving your goal.</string>
+
+    <string name="title_6">Don’t Procrastinate</string>
+    <string name="desc_6">Start tasks now; waiting only delays your growth and success.</string>
+
+    <string name="title_7">Study Other Successful People</string>
+    <string name="desc_7">Learn from the habits and strategies of those who’ve already succeeded.</string>
+
+    <string name="title_8">Be Patient</string>
+    <string name="desc_8">Great outcomes take time—be willing to wait while you keep working.</string>
+
+    <string name="title_9">Solve Problems/Find Solutions</string>
+    <string name="desc_9">Focus on solutions rather than dwelling on problems.</string>
+
+    <string name="title_10">Don’t Be Held Back By Fear</string>
+    <string name="desc_10">Acknowledge fear but take action anyway.</string>
+
+    <string name="title_11">Do Things Differently</string>
+    <string name="desc_11">Innovate and challenge norms to stand out and grow.</string>
+
+    <string name="title_12">Be Resourceful/Do More With Less</string>
+    <string name="desc_12">Maximize what you already have through creativity and efficiency.</string>
+
+    <string name="title_13">Write Your Goals and Set Deadlines</string>
+    <string name="desc_13">Put your goals on paper and set a timeframe to stay accountable.</string>
+
+    <string name="title_14">Be Creative</string>
+    <string name="desc_14">Use imagination and innovation to solve challenges or find new paths.</string>
+
+    <string name="title_15">Learn From Your Mistakes and Failures</string>
+    <string name="desc_15">Treat failures as valuable lessons for future improvement.</string>
+
+    <string name="title_16">Always Keep Learning</string>
+    <string name="desc_16">Continuously expand your skills, knowledge, and mindset.</string>
+
+    <string name="title_17">Appreciate the Power of a Good Team</string>
+    <string name="desc_17">Surround yourself with supportive, talented people to amplify your efforts.</string>
+
+    <string name="title_18">Over Deliver/Go the Extra Mile</string>
+    <string name="desc_18">Give more than expected to build trust and create excellence.</string>
+
+    <string name="title_19">Always Keep Improving</string>
+    <string name="desc_19">Constantly refine your skills, habits, and systems.</string>
+
+    <string name="title_20">Believe That You Can Succeed</string>
+    <string name="desc_20">Confidence fuels effort—believe in your ability to achieve.</string>
+
+    <string name="title_21">Take Calculated Risks</string>
+    <string name="desc_21">Evaluate risks logically and take smart leaps outside your comfort zone.</string>
+
+    <string name="title_22">Motivate Yourself</string>
+    <string name="desc_22">Find your internal drive and remind yourself why you started.</string>
+
+    <string name="title_23">Overcome Self-Doubt</string>
+    <string name="desc_23">Replace limiting beliefs with empowering thoughts and actions.</string>
+
+    <string name="title_24">Be Organized</string>
+    <string name="desc_24">Structure your time, tasks, and goals for clarity and efficiency.</string>
+
+    <string name="title_25">Develop Your Own Success Systems</string>
+    <string name="desc_25">Build routines, habits, and tools that consistently lead you toward your goals.</string>
+
+    <string name="title_26">Manage Time Wisely</string>
+    <string name="desc_26">Prioritize high-impact tasks and eliminate time wasters.</string>
+
+    <string name="title_27">Avoid Complacency</string>
+    <string name="desc_27">Don’t settle—always strive for progress and better results.</string>
+
+    <string name="title_28">Get Rid of Perfectionism</string>
+    <string name="desc_28">Aim for progress, not perfection; perfectionism can cause paralysis.</string>
+
+    <string name="title_29">Trust Your Gut Instinct</string>
+    <string name="desc_29">Intuition is powerful—learn to listen to it when making decisions.</string>
+
+    <string name="title_30">Don’t Give Up</string>
+    <string name="desc_30">Persistence is key—keep going until you reach your goal.</string>
+</resources>
