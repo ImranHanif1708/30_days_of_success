@@ -10,9 +10,9 @@ A Kotlin-based Android application designed to inspire and motivate users with d
 - **Theming**: Supports both light and dark themes.
 
 ## Screenshots
-
-![Light Theme](screenshots/light_theme.png)
-![Dark Theme](screenshots/dark_theme.png)
+![Screenshot from 2025-06-10 07-22-51](https://github.com/user-attachments/assets/70e6e5ce-5673-4457-935a-270bcba2869b)
+![Screenshot from 2025-06-10 07-24-24](https://github.com/user-attachments/assets/bb6739ac-a51a-454f-916f-1b4bf1da1ab3)
+![Screenshot from 2025-06-10 07-24-48](https://github.com/user-attachments/assets/4148d08a-2468-45df-822e-b6c67f6fbc2a)
 
 ## Tech Stack
 
